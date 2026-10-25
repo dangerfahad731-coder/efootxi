@@ -1,4 +1,4 @@
-# efootxi
+# efootball 
 
 > **开发来源与修改许可**：efootxi 第一版基于 73@**7othree** 版本开发，已获得修改许可。后续版本由 maxlzyver 持续修改与维护。
 
