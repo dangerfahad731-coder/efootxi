@@ -1,19 +1,18 @@
-# efootxi V1.3.2
+# efootxi
 
-> **置顶声明｜开发来源与修改许可**
->
-> efootxi 第一版基于 73@**7othree** 版本开发，已获得修改许可。后续版本由 maxlzyver 持续修改与维护。
+> **开发来源与修改许可**：efootxi 第一版基于 73@**7othree** 版本开发，已获得修改许可。后续版本由 maxlzyver 持续修改与维护。
 
-**[下载 V1.3.2 正式 APK](https://github.com/maxlzyver/efootxi/releases/download/v1.3.2/efootxi-1.3.2.apk)** · [正式发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.3.2) · [41 条完整更新公告](release-notes-v1.3.2.md)
+**[下载 V1.4.0 正式 APK](https://github.com/maxlzyver/efootxi/releases/download/v1.4.0/efootxi-1.4.0.apk)** · [发布页](https://github.com/maxlzyver/efootxi/releases/tag/v1.4.0) · [中文公告](docs/releases/v1.4.0.md) · [English release notes](docs/releases/v1.4.0-en.md)
 
-V1.3.2 修复了 V1.3.1 更新后出现程序校验错误、无法进入游戏的问题。已安装 V1.3／V1.3.1 的玩家可以直接覆盖安装，保留现有存档；请勿先卸载或清除应用数据。V1.2 及更早版本需独立安装，不继承旧存档。V1.3 及之后沿用同一应用身份和签名，覆盖更新可以保留进度。
+V1.4.0 最低要求 Android 9、64 位 ARM 设备，实际兼容情况以测试结果为准。安装后按提示选择补丁并完成资源准备；临时下载中断可继续，完整资源准备后可离线游玩。
 
-支持 Android 12 及以上的 ARM64 设备。安装 APK 后，首次打开会自动准备资源，不用手动选包、搬运或解压；完整资源准备后可离线游玩。下载资源来自 GitHub，下载慢或失败时，可更换稳定可用的梯子和更快的网络，已有完整文件会校验复用。
+V1.3 及之后的同包名、同签名版本可覆盖更新并保留存档，请勿先卸载或清除应用数据。V1.2 及更早版本需独立安装，不继承旧存档。具体升级方式与内容限制以对应发布公告为准。
 
-游戏内下载／更新页和右上角通知入口可阅读公告。[Releases](https://github.com/maxlzyver/efootxi/releases) 保留 V1.2 及之后的正式安装包，以及这些版本使用的资源与更新入口；后续安装与更新请以对应发布页说明为准。
+- [版本公告目录](docs/releases/README.md)：正式版本的中文、英文公告与历史记录。
+- [安装与资源更新](docs/resource-updates.md)：下载、资源准备和反馈说明。
+- [GitHub Releases](https://github.com/maxlzyver/efootxi/releases)：公开可下载的 APK、资源与更新入口。
+- [Telegram 发布频道 @efootxi](https://t.me/efootxi) · [测试版发布](https://github.com/maxlzyver/efootxi-test/releases) · [反馈邮箱](mailto:lzyuan666666@gmail.com)
 
-项目源码已转为私有维护，公开仓库保留安装包、资源下载与更新公告。
+反馈请附游戏版本、机型、Android 版本、具体卡片版本、操作步骤及截图或录屏；启动报错请提供完整错误文字，并保留应用数据。
 
-[Telegram 发布频道 @efootxi](https://t.me/efootxi) · [测试版发布](https://github.com/maxlzyver/efootxi-test/releases) · [反馈邮箱](mailto:lzyuan666666@gmail.com)
-
-反馈请附游戏版本、机型、Android 版本、具体卡片版本、操作步骤和截图或录屏。启动报错请提供完整错误文字，并保留应用数据。
+本仓库维护玩家文档和发布附件，应用源码单独私有维护。发布说明统一放在 `docs/releases/`；文档修改使用独立分支，通过 Pull Request 合并。
